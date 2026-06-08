@@ -1,7 +1,5 @@
-mport { initializeApp } from "firebase/app";
-
+import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
-
 
 
 // 🔥 PUT YOUR CONFIG HERE
